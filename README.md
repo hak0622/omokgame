@@ -37,3 +37,19 @@
  5. Git Repository -> URL(자동으로 설정) ->Branch 선택 -> 로컬 저장소 설정 -> 프로젝트 선택 -> 프로젝트 확인 -> 프로젝트 열기
      
 6. 위와 같은 실행을 완료하면 해당 프로젝트가 Eclipse에서 열립니다.
+
+------------------------------------
+
+##  4. 프로젝트 실행 방법
+
+1. ENVIRONMENT에서 자신의 IP와 DB 내용으로 입력한다.
+```java
+public class ENVIRONMENT {
+   //About Server
+	static public String SERVER_IP = "자신의 IP 주소";	
+	//About DB
+	public static final String DB_IP = "자신의 데이터베이스 IP"; // 예) "localhost"
+	static public String DB_PORT = "자신의 데이터베이스 ";
+	static public String DB_ID = "자신의 데이터베이스 정보";
+	static public String DB_PW = "자신의 데이터베이스 정보";
+}

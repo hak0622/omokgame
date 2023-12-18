@@ -49,7 +49,8 @@ public class ENVIRONMENT {
 	static public String SERVER_IP = "자신의 IP 주소";	
 	//About DB
 	public static final String DB_IP = "자신의 데이터베이스 IP"; // 예) "localhost"
-	static public String DB_PORT = "자신의 데이터베이스 ";
-	static public String DB_ID = "자신의 데이터베이스 정보";
-	static public String DB_PW = "자신의 데이터베이스 정보";
+	static public String DB_PORT = "자신의 데이터베이스 PORT ";  // 예) "3306"
+	static public String DB_ID = "자신의 데이터베이스 ID"; // 예) "root"
+	static public String DB_PW = "자신의 데이터베이스 PW"; 
 }
+

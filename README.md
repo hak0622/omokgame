@@ -117,7 +117,10 @@ public getListAll() {} 등등 자신이 사용하는 DB컬럼을 이용
 ```java
 urlBuilder.append("?" + URLEncoder.encode("serviceKey","UTF-8") + "=공공데이터 포털에서 받은 서비스 키 입력"); /*Service Key*/
 ```
-
+8. AddressWindow 클래스
+```java
+urlBuilder.append("?" + URLEncoder.encode("serviceKey","UTF-8") + "=공공데이터 포털에서 받은 서비스 키 입력"); /*Service Key*/
+```
 ------------------------------------
 
 ##  6. 공공 데이터 포털에서 우편번호 서비스 키 받는 방법

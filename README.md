@@ -72,3 +72,18 @@ public DBConnection() {
 	}
 ```
 
+3. AdminModel 클래스
+```java
+public AdminModel(){column.add("자신이 사용하는 DB 컬럼");}
+```
+
+4. ChatInnerPanel 클래스
+```java
+String imagePath = "자신이 사용하는 이미지 경로로 변경";
+```
+5. LoginPanel클래스에 관리자를 들어가기 위해 DB에 Admin테이블 생성 후 하나의 컬럼에 자신이 사용할 비밀번호를 만든다.
+
+6. AdminModel 클래스
+```java
+public getListAll() {} 등등 자신이 사용하는 DB컬럼을 이용
+```

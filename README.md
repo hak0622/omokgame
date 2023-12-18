@@ -23,3 +23,17 @@
 • JDBC : Mysql-connector-j-8.0.33.jar
 
 ------------------------------------
+
+##  3. 깃클론 사용 방법
+
+ 1. 위의 링크를 가지고 HTTPS를 클론한다.
+
+ 2. Eclipse의 메뉴에서 File을 선택하고 Import를 클릭한다.
+  
+ 3. Import 대화 상자에서 Git 폴더를 클릭한다.
+    
+ 4. Git 아래에서 Projects from Git을 선택한다.
+    
+ 5. Git Repository -> URL(자동으로 설정) ->Branch 선택 -> 로컬 저장소 설정 -> 프로젝트 선택 -> 프로젝트 확인 -> 프로젝트 열기
+     
+6. 위와 같은 실행을 완료하면 해당 프로젝트가 Eclipse에서 열립니다.

@@ -155,6 +155,25 @@ urlBuilder.append("?" + URLEncoder.encode("serviceKey","UTF-8") + "=공공데이
 
 ![image](https://github.com/hak0622/omokgame/assets/128469147/990f3948-ca53-4ff9-829e-939ad073e6b9)
 
+![image](https://github.com/hak0622/omokgame/assets/128469147/85fc1c30-9c94-46e3-98ed-f8b43ae4d26d)
+
+![image](https://github.com/hak0622/omokgame/assets/128469147/66e356f8-6fa3-4556-97c7-5e7eae90d956)
+
+![image](https://github.com/hak0622/omokgame/assets/128469147/8b6b5925-4ce7-4afb-a646-749b8c87d93f)
+
+![image](https://github.com/hak0622/omokgame/assets/128469147/c7e5e9a0-fbbb-4876-be88-6394c394ea08)
+
+![image](https://github.com/hak0622/omokgame/assets/128469147/e4f5d8fc-7bd1-471a-97db-196e94936c12)
+
+![image](https://github.com/hak0622/omokgame/assets/128469147/efc6f43e-7c78-4c0a-b97b-b604447fa615)
+
+![image](https://github.com/hak0622/omokgame/assets/128469147/fa08546f-00c8-4206-b14a-0ddee7fd1f2a)
+
+![image](https://github.com/hak0622/omokgame/assets/128469147/2b088b37-0418-48f5-9dae-1cfa92421b50)
+
+![image](https://github.com/hak0622/omokgame/assets/128469147/fb8a80f7-6da5-40e9-8b15-40c19fdad4aa)
+
+![image](https://github.com/hak0622/omokgame/assets/128469147/d3551c04-18b9-436c-b7e6-c9ebd5ec9e51)
 
 ##  8. 참고 자료
 

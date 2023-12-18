@@ -129,7 +129,34 @@ urlBuilder.append("?" + URLEncoder.encode("serviceKey","UTF-8") + "=공공데이
 
 ------------------------------------
 
-##  7. 참고 자료
+##  7. 구현 화면 (UI)
+
+1.Server
+
+![image](https://github.com/hak0622/omokgame/assets/128469147/cd757b02-8f53-4e77-a850-49af9750872c)
+
+![image](https://github.com/hak0622/omokgame/assets/128469147/968ca210-740c-46d0-b357-24458e4f94d7)
+
+2.Client
+
+![image](https://github.com/hak0622/omokgame/assets/128469147/e5048483-f7c8-41b8-9dc7-03fade3be9fc)
+
+![image](https://github.com/hak0622/omokgame/assets/128469147/cfc58e28-7220-44f0-9e95-03f4091dbd5a)
+
+
+![image](https://github.com/hak0622/omokgame/assets/128469147/18e52fa4-3e0c-4180-bd89-ce64062bd05a)
+
+![image](https://github.com/hak0622/omokgame/assets/128469147/c72056e3-de80-4352-b511-356a47bd042a)
+![image](https://github.com/hak0622/omokgame/assets/128469147/d096a990-f28f-487f-9ba6-e9baaf3a6ef1)
+
+![image](https://github.com/hak0622/omokgame/assets/128469147/f769ac9c-182e-4d99-af0b-009ab19565eb)
+
+![image](https://github.com/hak0622/omokgame/assets/128469147/48fe6883-5857-474e-a251-a3e6cb63acb8)
+
+![image](https://github.com/hak0622/omokgame/assets/128469147/990f3948-ca53-4ff9-829e-939ad073e6b9)
+
+
+##  8. 참고 자료
 
 • 이 프로젝트는 다음의 자료를 참고하여 만들어졌습니다:
 

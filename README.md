@@ -53,4 +53,22 @@ public class ENVIRONMENT {
 	static public String DB_ID = "자신의 데이터베이스 ID"; // 예) "root"
 	static public String DB_PW = "자신의 데이터베이스 PW"; 
 }
+```
+2. DBConnection클래스에서 testdb 부분을 자신의 DB로 변경.
+```java
+public DBConnection() {
+		try {
+			Class.forName("com.mysql.cj.jdbc.Driver");				
+			conn = DriverManager.getConnection("jdbc:mysql://" +
+			ENVIRONMENT.DB_IP + ":" + 
+			ENVIRONMENT.DB_PORT + "/testdb?validationQuery=\"SELECT 1\"", 
+			ENVIRONMENT.DB_ID, ENVIRONMENT.DB_PW);
+			smt = conn.createStatement();
+			isConnect = true;
+			SystemManager.message(ENVIRONMENT.DB, "Connection Success!!");
+		}catch(Exception e) {
+			SystemManager.catchException(ENVIRONMENT.DB, e);
+		}
+	}
+```
 

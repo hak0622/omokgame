@@ -121,6 +121,14 @@ urlBuilder.append("?" + URLEncoder.encode("serviceKey","UTF-8") + "=공공데이
 ```java
 urlBuilder.append("?" + URLEncoder.encode("serviceKey","UTF-8") + "=공공데이터 포털에서 받은 서비스 키 입력"); /*Service Key*/
 ```
+위와 같은 내용을 하였을 경우 
+ Run -> Run Configurations -> Arguments 실행
+
+-> 인자값을 중앙 서버로 실행 시 true
+
+-> 사용자 프로그램으로 실행 시 false로 입력한다.
+
+
 ------------------------------------
 
 ##  6. 공공 데이터 포털에서 우편번호 서비스 키 받는 방법
